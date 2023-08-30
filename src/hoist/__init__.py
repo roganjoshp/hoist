@@ -1,0 +1,1 @@
+from .next_dir import HW_SHIFT, SW_SHIFT

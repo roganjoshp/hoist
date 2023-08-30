@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+src/test_enum.egg-info/PKG-INFO
+src/test_enum.egg-info/SOURCES.txt
+src/test_enum.egg-info/dependency_links.txt
+src/test_enum.egg-info/top_level.txt
